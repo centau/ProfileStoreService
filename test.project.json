@@ -1,0 +1,16 @@
+{
+    "name": "RDL",
+    "tree": {
+        "$className": "DataModel",
+
+        "ServerScriptService": {
+            "$className": "ServerScriptService",
+            "server": {
+                "$path": "test/server"
+            },
+            "ProfileStoreService": {
+                "$path": "src"
+            }
+        }
+    }
+}

@@ -1,0 +1,13 @@
+# Project place file
+/RDL.rbxlx
+
+# Roblox Studio lock files
+/*.rbxlx.lock
+/*.rbxl.lock
+
+# Rojo sourcemap
+sourcemap.json
+
+# Other
+local
+.vscode
